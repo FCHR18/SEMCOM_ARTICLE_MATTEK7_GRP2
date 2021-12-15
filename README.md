@@ -4,4 +4,4 @@ This is a Github for the spectator to further read the article "Training a DNN M
 written by MATTEK7 GRP2: Benjamin B. Knudsen, Frederik A. Vardinghus-Nielsen, Frederik Christensen, Magnus Jónhardsson, Sisse H. Pedersen.
 
 
-The Article will be posted in Github after the authors have been examined in the article.
+The article will be posted in Github after the authors have been examined in the article.
